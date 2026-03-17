@@ -88,10 +88,3 @@ ensure krs_cityhall
 ---
 
 *Developed with ❤️ by Krs Scripts*
-
----
-
-Se vuoi possiamo fare un ultimo tweak per:
-
-* renderlo ancora più “human” (tipo meno tecnico)
-* oppure aggiungere una preview immagine sopra 👌
