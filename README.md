@@ -82,7 +82,7 @@ ensure krs_cityhall
 
 ## 🤝 Support
 
-* **Discord**: [https://discord.gg/CqfzJXvKvk](https://discord.gg/CqfzJXvKvk)
+* **Discord**: [https://discord.gg/CqfzJXvKvk](https://discord.gg/BshrDcuY4e)
 * **Author**: Krs Scripts
 
 ---
