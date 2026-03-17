@@ -2,7 +2,7 @@
 <img width="1919" height="1079" alt="KRS CITYHALL" src="https://github.com/user-attachments/assets/75c71de9-13e7-4037-afe4-f8af77fb3045" />
 
 
-**KRS CityHall** is a simple **job center system** for FiveM servers. It is built with **React** and **Mantine UI** to provide a clean and easy-to-use interface where players can choose jobs and manage their documents quickly.
+**KRS CITYHALL** is a simple **job center system** for FiveM servers. It is built with **React** and **Mantine UI** to provide a clean and easy-to-use interface where players can choose jobs and manage their documents quickly.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=flat&logo=mantine&logoColor=white)
